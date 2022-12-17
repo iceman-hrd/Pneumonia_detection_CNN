@@ -1,2 +1,2 @@
 # Pneumonia_detection_CNN
-Deep learning applied in images detection
+Deep learning applied in image detection
